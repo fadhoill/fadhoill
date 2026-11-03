@@ -1,4 +1,4 @@
-# Hey, I'm a Developer 👋
+# Hey, I'm Fadhoil 👋
 
 I'm an Information Systems student with an interest in building useful software and exploring emerging technologies.
 
